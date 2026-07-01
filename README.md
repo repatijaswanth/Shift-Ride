@@ -1,4 +1,4 @@
-# 🚗 Smart Employee Commute System
+# 🚗 Shift Ride System
 
 A web-based ride sharing platform for employees with real-time map tracking,
 GST-based cost splitting, and savings dashboard.
